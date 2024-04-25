@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\c# Basics\Day5\Indexer\Indexer\bin\Debug\Indexer.exe.config
+C:\Users\Nimap\Desktop\c# Basics\Day5\Indexer\Indexer\bin\Debug\Indexer.exe
+C:\Users\Nimap\Desktop\c# Basics\Day5\Indexer\Indexer\bin\Debug\Indexer.pdb
+C:\Users\Nimap\Desktop\c# Basics\Day5\Indexer\Indexer\obj\Debug\Indexer.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\c# Basics\Day5\Indexer\Indexer\obj\Debug\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\c# Basics\Day5\Indexer\Indexer\obj\Debug\Indexer.exe
+C:\Users\Nimap\Desktop\c# Basics\Day5\Indexer\Indexer\obj\Debug\Indexer.pdb

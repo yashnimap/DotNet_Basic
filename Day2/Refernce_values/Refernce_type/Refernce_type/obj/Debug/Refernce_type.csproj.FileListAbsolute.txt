@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\c# Basics\Day2\Refernce_values\Refernce_type\Refernce_type\bin\Debug\Refernce_type.exe.config
+C:\Users\Nimap\Desktop\c# Basics\Day2\Refernce_values\Refernce_type\Refernce_type\bin\Debug\Refernce_type.exe
+C:\Users\Nimap\Desktop\c# Basics\Day2\Refernce_values\Refernce_type\Refernce_type\bin\Debug\Refernce_type.pdb
+C:\Users\Nimap\Desktop\c# Basics\Day2\Refernce_values\Refernce_type\Refernce_type\obj\Debug\Refernce_type.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\c# Basics\Day2\Refernce_values\Refernce_type\Refernce_type\obj\Debug\Refernce_type.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\c# Basics\Day2\Refernce_values\Refernce_type\Refernce_type\obj\Debug\Refernce_type.exe
+C:\Users\Nimap\Desktop\c# Basics\Day2\Refernce_values\Refernce_type\Refernce_type\obj\Debug\Refernce_type.pdb

@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\c# Basics\Day3\String_Builder\String_Builder\bin\Debug\String_Builder.exe.config
+C:\Users\Nimap\Desktop\c# Basics\Day3\String_Builder\String_Builder\bin\Debug\String_Builder.exe
+C:\Users\Nimap\Desktop\c# Basics\Day3\String_Builder\String_Builder\bin\Debug\String_Builder.pdb
+C:\Users\Nimap\Desktop\c# Basics\Day3\String_Builder\String_Builder\obj\Debug\String_Builder.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\c# Basics\Day3\String_Builder\String_Builder\obj\Debug\String_Builder.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\c# Basics\Day3\String_Builder\String_Builder\obj\Debug\String_Builder.exe
+C:\Users\Nimap\Desktop\c# Basics\Day3\String_Builder\String_Builder\obj\Debug\String_Builder.pdb

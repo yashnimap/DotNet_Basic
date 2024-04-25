@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\c# Basics\\String\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C384475-BA70-4E11-B707-1AB19E86B01A}|String\\String.csproj|c:\\users\\nimap\\desktop\\c# basics\\string\\string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C384475-BA70-4E11-B707-1AB19E86B01A}|String\\String.csproj|solutionrelative:string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\c# Basics\\String\\String\\Program.cs",
+              "RelativeDocumentMoniker": "String\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\c# Basics\\String\\String\\Program.cs",
+              "RelativeToolTip": "String\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:25:28.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

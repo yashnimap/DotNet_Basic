@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\c# Basics\Day3\List\List\bin\Debug\List.exe.config
+C:\Users\Nimap\Desktop\c# Basics\Day3\List\List\bin\Debug\List.exe
+C:\Users\Nimap\Desktop\c# Basics\Day3\List\List\bin\Debug\List.pdb
+C:\Users\Nimap\Desktop\c# Basics\Day3\List\List\obj\Debug\List.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\c# Basics\Day3\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\c# Basics\Day3\List\List\obj\Debug\List.exe
+C:\Users\Nimap\Desktop\c# Basics\Day3\List\List\obj\Debug\List.pdb

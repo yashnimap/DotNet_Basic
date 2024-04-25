@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day6\\Constrctor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC152F6-2366-495A-8ACB-9736DE0CFC30}|Constrctor\\Constrctor.csproj|c:\\users\\nimap\\desktop\\c# basics\\day6\\constrctor\\constrctor\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC152F6-2366-495A-8ACB-9736DE0CFC30}|Constrctor\\Constrctor.csproj|solutionrelative:constrctor\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC152F6-2366-495A-8ACB-9736DE0CFC30}|Constrctor\\Constrctor.csproj|C:\\Users\\Nimap\\Desktop\\c# Basics\\Day6\\Constrctor\\constrctor\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC152F6-2366-495A-8ACB-9736DE0CFC30}|Constrctor\\Constrctor.csproj|solutionrelative:constrctor\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC152F6-2366-495A-8ACB-9736DE0CFC30}|Constrctor\\Constrctor.csproj|C:\\Users\\Nimap\\Desktop\\c# Basics\\Day6\\Constrctor\\constrctor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC152F6-2366-495A-8ACB-9736DE0CFC30}|Constrctor\\Constrctor.csproj|solutionrelative:constrctor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "car.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day6\\Constrctor\\Constrctor\\car.cs",
+              "RelativeDocumentMoniker": "Constrctor\\car.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day6\\Constrctor\\Constrctor\\car.cs",
+              "RelativeToolTip": "Constrctor\\car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:19:51.089Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day6\\Constrctor\\Constrctor\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Constrctor\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day6\\Constrctor\\Constrctor\\Vehicle.cs",
+              "RelativeToolTip": "Constrctor\\Vehicle.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:20:00.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day6\\Constrctor\\Constrctor\\Program.cs",
+              "RelativeDocumentMoniker": "Constrctor\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day6\\Constrctor\\Constrctor\\Program.cs",
+              "RelativeToolTip": "Constrctor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:58:41.382Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

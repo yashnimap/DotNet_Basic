@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\c# Basics\Day5\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\Nimap\Desktop\c# Basics\Day5\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\Nimap\Desktop\c# Basics\Day5\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\Nimap\Desktop\c# Basics\Day5\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\c# Basics\Day5\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\c# Basics\Day5\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\Nimap\Desktop\c# Basics\Day5\Methods\Methods\obj\Debug\Methods.pdb

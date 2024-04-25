@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\c# Basics\Day8\Abstract_Implementation\Abstract_Implementation\bin\Debug\Abstract_Implementation.exe.config
+C:\Users\Nimap\Desktop\c# Basics\Day8\Abstract_Implementation\Abstract_Implementation\bin\Debug\Abstract_Implementation.exe
+C:\Users\Nimap\Desktop\c# Basics\Day8\Abstract_Implementation\Abstract_Implementation\bin\Debug\Abstract_Implementation.pdb
+C:\Users\Nimap\Desktop\c# Basics\Day8\Abstract_Implementation\Abstract_Implementation\obj\Debug\Abstract_Implementation.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\c# Basics\Day8\Abstract_Implementation\Abstract_Implementation\obj\Debug\Abstract_Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\c# Basics\Day8\Abstract_Implementation\Abstract_Implementation\obj\Debug\Abstract_Implementation.exe
+C:\Users\Nimap\Desktop\c# Basics\Day8\Abstract_Implementation\Abstract_Implementation\obj\Debug\Abstract_Implementation.pdb

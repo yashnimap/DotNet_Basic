@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\c# Basics\Day2\Refernce_values\Conditional_Statements\Conditional_Statements\bin\Debug\Conditional_Statements.exe.config
+C:\Users\Nimap\Desktop\c# Basics\Day2\Refernce_values\Conditional_Statements\Conditional_Statements\bin\Debug\Conditional_Statements.exe
+C:\Users\Nimap\Desktop\c# Basics\Day2\Refernce_values\Conditional_Statements\Conditional_Statements\bin\Debug\Conditional_Statements.pdb
+C:\Users\Nimap\Desktop\c# Basics\Day2\Refernce_values\Conditional_Statements\Conditional_Statements\obj\Debug\Conditional_Statements.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\c# Basics\Day2\Refernce_values\Conditional_Statements\Conditional_Statements\obj\Debug\Conditional_Statements.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\c# Basics\Day2\Refernce_values\Conditional_Statements\Conditional_Statements\obj\Debug\Conditional_Statements.exe
+C:\Users\Nimap\Desktop\c# Basics\Day2\Refernce_values\Conditional_Statements\Conditional_Statements\obj\Debug\Conditional_Statements.pdb

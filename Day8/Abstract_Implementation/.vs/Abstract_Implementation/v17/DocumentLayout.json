@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day8\\Abstract_Implementation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D809CDE-BE12-4136-84EA-0104EE5EE81B}|Abstract_Implementation\\Abstract_Implementation.csproj|c:\\users\\nimap\\desktop\\c# basics\\day8\\abstract_implementation\\abstract_implementation\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D809CDE-BE12-4136-84EA-0104EE5EE81B}|Abstract_Implementation\\Abstract_Implementation.csproj|solutionrelative:abstract_implementation\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day8\\Abstract_Implementation\\Abstract_Implementation\\Figure.cs",
+              "RelativeDocumentMoniker": "Abstract_Implementation\\Figure.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day8\\Abstract_Implementation\\Abstract_Implementation\\Figure.cs",
+              "RelativeToolTip": "Abstract_Implementation\\Figure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:34:49.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

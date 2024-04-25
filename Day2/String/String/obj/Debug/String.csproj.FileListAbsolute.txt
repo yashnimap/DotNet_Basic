@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\c# Basics\String\String\bin\Debug\String.exe.config
+C:\Users\Nimap\Desktop\c# Basics\String\String\bin\Debug\String.exe
+C:\Users\Nimap\Desktop\c# Basics\String\String\bin\Debug\String.pdb
+C:\Users\Nimap\Desktop\c# Basics\String\String\obj\Debug\String.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\c# Basics\String\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\c# Basics\String\String\obj\Debug\String.exe
+C:\Users\Nimap\Desktop\c# Basics\String\String\obj\Debug\String.pdb

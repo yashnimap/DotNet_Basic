@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\c# Basics\Day3\Date_Times\Date_Times\bin\Debug\Date_Times.exe.config
+C:\Users\Nimap\Desktop\c# Basics\Day3\Date_Times\Date_Times\bin\Debug\Date_Times.exe
+C:\Users\Nimap\Desktop\c# Basics\Day3\Date_Times\Date_Times\bin\Debug\Date_Times.pdb
+C:\Users\Nimap\Desktop\c# Basics\Day3\Date_Times\Date_Times\obj\Debug\Date_Times.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\c# Basics\Day3\Date_Times\Date_Times\obj\Debug\Date_Times.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\c# Basics\Day3\Date_Times\Date_Times\obj\Debug\Date_Times.exe
+C:\Users\Nimap\Desktop\c# Basics\Day3\Date_Times\Date_Times\obj\Debug\Date_Times.pdb

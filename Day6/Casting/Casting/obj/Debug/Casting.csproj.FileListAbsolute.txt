@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\c# Basics\Day6\Casting\Casting\bin\Debug\Casting.exe.config
+C:\Users\Nimap\Desktop\c# Basics\Day6\Casting\Casting\bin\Debug\Casting.exe
+C:\Users\Nimap\Desktop\c# Basics\Day6\Casting\Casting\bin\Debug\Casting.pdb
+C:\Users\Nimap\Desktop\c# Basics\Day6\Casting\Casting\obj\Debug\Casting.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\c# Basics\Day6\Casting\Casting\obj\Debug\Casting.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\c# Basics\Day6\Casting\Casting\obj\Debug\Casting.exe
+C:\Users\Nimap\Desktop\c# Basics\Day6\Casting\Casting\obj\Debug\Casting.pdb

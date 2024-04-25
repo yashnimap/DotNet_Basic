@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\c# Basics\Day2\If_else\Switch_programe\Switch_programe\bin\Debug\Switch_programe.exe.config
+C:\Users\Nimap\Desktop\c# Basics\Day2\If_else\Switch_programe\Switch_programe\bin\Debug\Switch_programe.exe
+C:\Users\Nimap\Desktop\c# Basics\Day2\If_else\Switch_programe\Switch_programe\bin\Debug\Switch_programe.pdb
+C:\Users\Nimap\Desktop\c# Basics\Day2\If_else\Switch_programe\Switch_programe\obj\Debug\Switch_programe.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\c# Basics\Day2\If_else\Switch_programe\Switch_programe\obj\Debug\Switch_programe.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\c# Basics\Day2\If_else\Switch_programe\Switch_programe\obj\Debug\Switch_programe.exe
+C:\Users\Nimap\Desktop\c# Basics\Day2\If_else\Switch_programe\Switch_programe\obj\Debug\Switch_programe.pdb

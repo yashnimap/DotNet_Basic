@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\c# Basics\Day6\Constrctor\Constrctor\bin\Debug\Constrctor.exe.config
+C:\Users\Nimap\Desktop\c# Basics\Day6\Constrctor\Constrctor\bin\Debug\Constrctor.exe
+C:\Users\Nimap\Desktop\c# Basics\Day6\Constrctor\Constrctor\bin\Debug\Constrctor.pdb
+C:\Users\Nimap\Desktop\c# Basics\Day6\Constrctor\Constrctor\obj\Debug\Constrctor.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\c# Basics\Day6\Constrctor\Constrctor\obj\Debug\Constrctor.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\c# Basics\Day6\Constrctor\Constrctor\obj\Debug\Constrctor.exe
+C:\Users\Nimap\Desktop\c# Basics\Day6\Constrctor\Constrctor\obj\Debug\Constrctor.pdb

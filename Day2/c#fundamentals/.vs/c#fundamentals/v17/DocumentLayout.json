@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day1\\c#fundamentals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2608B7F3-8C3F-490D-BF82-2271BF7F2390}|c#fundamentals\\c#fundamentals.csproj|c:\\users\\nimap\\desktop\\c# basics\\day1\\c#fundamentals\\c#fundamentals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2608B7F3-8C3F-490D-BF82-2271BF7F2390}|c#fundamentals\\c#fundamentals.csproj|solutionrelative:c#fundamentals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2608B7F3-8C3F-490D-BF82-2271BF7F2390}|c#fundamentals\\c#fundamentals.csproj|c:\\users\\nimap\\desktop\\c# basics\\day1\\c#fundamentals\\c#fundamentals\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2608B7F3-8C3F-490D-BF82-2271BF7F2390}|c#fundamentals\\c#fundamentals.csproj|solutionrelative:c#fundamentals\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2608B7F3-8C3F-490D-BF82-2271BF7F2390}|c#fundamentals\\c#fundamentals.csproj|c:\\users\\nimap\\desktop\\c# basics\\day1\\c#fundamentals\\c#fundamentals\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2608B7F3-8C3F-490D-BF82-2271BF7F2390}|c#fundamentals\\c#fundamentals.csproj|solutionrelative:c#fundamentals\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day1\\c#fundamentals\\c#fundamentals\\Person.cs",
+              "RelativeDocumentMoniker": "c#fundamentals\\Person.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day1\\c#fundamentals\\c#fundamentals\\Person.cs",
+              "RelativeToolTip": "c#fundamentals\\Person.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:24:44.181Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day1\\c#fundamentals\\c#fundamentals\\Calculator.cs",
+              "RelativeDocumentMoniker": "c#fundamentals\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day1\\c#fundamentals\\c#fundamentals\\Calculator.cs",
+              "RelativeToolTip": "c#fundamentals\\Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:30:03.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day1\\c#fundamentals\\c#fundamentals\\Program.cs",
+              "RelativeDocumentMoniker": "c#fundamentals\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day1\\c#fundamentals\\c#fundamentals\\Program.cs",
+              "RelativeToolTip": "c#fundamentals\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:18:16.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

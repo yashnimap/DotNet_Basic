@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\c# Basics\Day4\Woking_with_files\Woking_with_files\bin\Debug\Woking_with_files.exe.config
+C:\Users\Nimap\Desktop\c# Basics\Day4\Woking_with_files\Woking_with_files\bin\Debug\Woking_with_files.exe
+C:\Users\Nimap\Desktop\c# Basics\Day4\Woking_with_files\Woking_with_files\bin\Debug\Woking_with_files.pdb
+C:\Users\Nimap\Desktop\c# Basics\Day4\Woking_with_files\Woking_with_files\obj\Debug\Woking_with_files.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\c# Basics\Day4\Woking_with_files\Woking_with_files\obj\Debug\Woking_with_files.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\c# Basics\Day4\Woking_with_files\Woking_with_files\obj\Debug\Woking_with_files.exe
+C:\Users\Nimap\Desktop\c# Basics\Day4\Woking_with_files\Woking_with_files\obj\Debug\Woking_with_files.pdb

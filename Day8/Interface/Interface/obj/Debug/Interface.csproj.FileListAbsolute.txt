@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\c# Basics\Day8\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\Nimap\Desktop\c# Basics\Day8\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\Nimap\Desktop\c# Basics\Day8\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\Nimap\Desktop\c# Basics\Day8\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\c# Basics\Day8\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\c# Basics\Day8\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\Nimap\Desktop\c# Basics\Day8\Interface\Interface\obj\Debug\Interface.pdb

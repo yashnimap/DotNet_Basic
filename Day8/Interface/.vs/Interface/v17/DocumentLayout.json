@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day8\\Interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89B639FA-359F-4377-90FF-651D6A8899A3}|Multiple_Inheritance\\Multiple_Inheritance.csproj|c:\\users\\nimap\\desktop\\c# basics\\day8\\interface\\multiple_inheritance\\multipleinheritancetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B639FA-359F-4377-90FF-651D6A8899A3}|Multiple_Inheritance\\Multiple_Inheritance.csproj|solutionrelative:multiple_inheritance\\multipleinheritancetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166358E7-673E-4340-AFA1-7644509C6337}|Interface\\Interface.csproj|c:\\users\\nimap\\desktop\\c# basics\\day8\\interface\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166358E7-673E-4340-AFA1-7644509C6337}|Interface\\Interface.csproj|solutionrelative:interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MultipleInheritanceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day8\\Interface\\Multiple_Inheritance\\MultipleInheritanceTest.cs",
+              "RelativeDocumentMoniker": "Multiple_Inheritance\\MultipleInheritanceTest.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day8\\Interface\\Multiple_Inheritance\\MultipleInheritanceTest.cs",
+              "RelativeToolTip": "Multiple_Inheritance\\MultipleInheritanceTest.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:18:10.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day8\\Interface\\Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Interface\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day8\\Interface\\Interface\\Program.cs",
+              "RelativeToolTip": "Interface\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvx4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:25:25.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

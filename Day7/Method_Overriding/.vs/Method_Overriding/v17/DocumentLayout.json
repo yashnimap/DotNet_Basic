@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day7\\Method_Overriding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{746D1287-501C-4A6A-B553-A45DBBB0A30B}|Method_Overriding\\Method_Overriding.csproj|C:\\Users\\Nimap\\Desktop\\c# Basics\\Day7\\Method_Overriding\\method_overriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746D1287-501C-4A6A-B553-A45DBBB0A30B}|Method_Overriding\\Method_Overriding.csproj|solutionrelative:method_overriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DEF52D-3942-4F62-BB88-8EDBD676002A}|Method_Overloading\\Method_Overloading.csproj|c:\\users\\nimap\\desktop\\c# basics\\day7\\method_overriding\\method_overloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DEF52D-3942-4F62-BB88-8EDBD676002A}|Method_Overloading\\Method_Overloading.csproj|solutionrelative:method_overloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day7\\Method_Overriding\\Method_Overloading\\Program.cs",
+              "RelativeDocumentMoniker": "Method_Overloading\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day7\\Method_Overriding\\Method_Overloading\\Program.cs",
+              "RelativeToolTip": "Method_Overloading\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:29:52.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day7\\Method_Overriding\\Method_Overriding\\Program.cs",
+              "RelativeDocumentMoniker": "Method_Overriding\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day7\\Method_Overriding\\Method_Overriding\\Program.cs",
+              "RelativeToolTip": "Method_Overriding\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T06:38:03.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

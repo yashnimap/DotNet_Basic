@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\c# Basics\Day6\Type_Conversion\Type_Conversion\bin\Debug\Type_Conversion.exe.config
+C:\Users\Nimap\Desktop\c# Basics\Day6\Type_Conversion\Type_Conversion\bin\Debug\Type_Conversion.exe
+C:\Users\Nimap\Desktop\c# Basics\Day6\Type_Conversion\Type_Conversion\bin\Debug\Type_Conversion.pdb
+C:\Users\Nimap\Desktop\c# Basics\Day6\Type_Conversion\Type_Conversion\obj\Debug\Type_Conversion.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\c# Basics\Day6\Type_Conversion\Type_Conversion\obj\Debug\Type_Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\c# Basics\Day6\Type_Conversion\Type_Conversion\obj\Debug\Type_Conversion.exe
+C:\Users\Nimap\Desktop\c# Basics\Day6\Type_Conversion\Type_Conversion\obj\Debug\Type_Conversion.pdb

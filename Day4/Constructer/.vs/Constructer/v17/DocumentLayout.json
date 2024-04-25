@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day4\\Constructer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DB05D4-D432-4BB4-95AB-378FE26FFE1D}|Constructer\\Constructer.csproj|c:\\users\\nimap\\desktop\\c# basics\\day4\\constructer\\constructer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DB05D4-D432-4BB4-95AB-378FE26FFE1D}|Constructer\\Constructer.csproj|solutionrelative:constructer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DB05D4-D432-4BB4-95AB-378FE26FFE1D}|Constructer\\Constructer.csproj|c:\\users\\nimap\\desktop\\c# basics\\day4\\constructer\\constructer\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DB05D4-D432-4BB4-95AB-378FE26FFE1D}|Constructer\\Constructer.csproj|solutionrelative:constructer\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DB05D4-D432-4BB4-95AB-378FE26FFE1D}|Constructer\\Constructer.csproj|c:\\users\\nimap\\desktop\\c# basics\\day4\\constructer\\constructer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DB05D4-D432-4BB4-95AB-378FE26FFE1D}|Constructer\\Constructer.csproj|solutionrelative:constructer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day4\\Constructer\\Constructer\\Order.cs",
+              "RelativeDocumentMoniker": "Constructer\\Order.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day4\\Constructer\\Constructer\\Order.cs",
+              "RelativeToolTip": "Constructer\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T11:42:58.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day4\\Constructer\\Constructer\\Customer.cs",
+              "RelativeDocumentMoniker": "Constructer\\Customer.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day4\\Constructer\\Constructer\\Customer.cs",
+              "RelativeToolTip": "Constructer\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T11:39:06.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day4\\Constructer\\Constructer\\Program.cs",
+              "RelativeDocumentMoniker": "Constructer\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\c# Basics\\Day4\\Constructer\\Constructer\\Program.cs",
+              "RelativeToolTip": "Constructer\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T10:16:43.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

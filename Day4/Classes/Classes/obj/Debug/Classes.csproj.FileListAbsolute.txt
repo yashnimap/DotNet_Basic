@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\c# Basics\Day4\Classes\Classes\bin\Debug\Classes.exe.config
+C:\Users\Nimap\Desktop\c# Basics\Day4\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\Nimap\Desktop\c# Basics\Day4\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\Nimap\Desktop\c# Basics\Day4\Classes\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\c# Basics\Day4\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\c# Basics\Day4\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\Nimap\Desktop\c# Basics\Day4\Classes\Classes\obj\Debug\Classes.pdb
